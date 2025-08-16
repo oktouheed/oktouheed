@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm YOUR NAME</h1>
+<h1 align="center">Hi, I'm Touheed</h1>
 <p align="center"><strong>Senior Web Developer</strong> — React • Next.js • Node.js • TypeScript • Performance & DX</p>
 
 <p align="center">
@@ -7,10 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://YOUR-PORTFOLIO.com">Website</a> •
-  <a href="mailto:YOUR.EMAIL@EXAMPLE.COM">Email</a> •
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">LinkedIn</a> •
-  <a href="https://twitter.com/YOUR-HANDLE">Twitter/X</a>
+  <a href="https://zotcorporation.com">Website</a> •
+  <a href="mailto:oktouheed@gmail.com">Email</a> 
 </p>
 
 ---
