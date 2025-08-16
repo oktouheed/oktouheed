@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm YOUR NAME</h1>
+<h1 align="center">Hi, I'm Touheed</h1>
 <p align="center"><strong>Senior Web Developer</strong> — React • Next.js • Node.js • TypeScript • Performance & DX</p>
 
 <p align="center">
