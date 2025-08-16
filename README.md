@@ -52,9 +52,9 @@ Note: Many projects are private; below are redacted case studies and public code
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white">
 </p>
 <p>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/Postgres-4169E1?logo=postgresql&logoColor=white">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/Postgres-4169E1?logo=postgresql&logoColor=white">
 </p>
 <p>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white">
