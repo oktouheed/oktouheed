@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Touheed</h1>
+<h1 align="center">Hi, I'm YOUR NAME</h1>
 <p align="center"><strong>Senior Web Developer</strong> — React • Next.js • Node.js • TypeScript • Performance & DX</p>
 
 <p align="center">
@@ -81,21 +81,18 @@ Note: Many projects are private; below are redacted case studies and public code
   - Context: Large SPA → Next.js SSR with edge caching/CDN.
   - Role: Lead developer; owned architecture, Web Vitals, CI/CD.
   - Impact: LCP −38%, p95 CPU −25%, +2.4x SEO sessions, +X% conversion.
-  - Read more: https://github.com/oktouheed/case-studies/blob/main/docs/case-study-01.md
 - Case Study: MULTI‑REGION API & OBSERVABILITY
   - Context: Node/Nest, Postgres, Redis, Kafka; OTel tracing + SLOs.
   - Impact: p99 < 180ms, error rate −60%.
-  - Read more: https://github.com/oktouheed/case-studies/blob/main/docs/case-study-02.md
 
 ---
 
 ### Representative code samples
-- public-samples: Production‑grade examples showing patterns from private work:
+- Production‑grade examples mirroring patterns from private work (links available on request):
   - Next.js + RSC + cache control + ISR patterns
   - Auth with JWT/refresh rotation and RBAC
   - Testing starter (Jest/Playwright), GitHub Actions CI
   - Node/Nest service with clean architecture and OpenAPI
-- Repo: https://github.com/oktouheed/public-samples
 
 ---
 
@@ -105,14 +102,6 @@ Note: Many projects are private; below are redacted case studies and public code
 
 ### Writing & talks
 - "TITLE" — LINK — EVENT/PUBLICATION — short takeaway.
-
----
-
-### GitHub stats
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=oktouheed&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktouheed&layout=compact&langs_count=8&card_width=320&theme=transparent" alt="top langs" />
-</p>
 
 ---
 
