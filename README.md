@@ -17,7 +17,6 @@
 - I build fast, accessible web apps and robust APIs at scale.
 - Strengths: performance (Core Web Vitals), design systems, API design, observability, CI/CD and DX.
 - Experience: 12+ years across SaaS, e‑commerce, fintech.
-- Currently: WHAT YOU’RE DOING/LEARNING (e.g., RSC patterns, edge runtimes).
 - Open to: FULL‑TIME / FREELANCE / CONSULTING / MENTORING.
 
 ---
